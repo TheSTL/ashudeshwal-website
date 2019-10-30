@@ -10,7 +10,7 @@ export default function component() {
       <div className="content-area">
         <h1 className="entry-title">Hi there, I&apos;m Ashu Deshwal</h1>
         <div className="description">
-          <img className="description-image" src={Config.ENGINEER_IMAGE} alt="ashu" />
+          <img className="description-image" src={Config.ENGINEER_IMAGE} alt="Ashu Deshwal" />
           <div className="about-me">
             I am a Software Engineer. I like to play with Javascript and rest with Data Structures and Algorithms.
           </div>
